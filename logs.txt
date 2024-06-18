@@ -1,0 +1,1 @@
+[WARNING/2024-06-19 00:28:43,198] telethon.network.mtprotosender:286: Attempt 1 at connecting failed: TimeoutError: 
